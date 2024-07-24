@@ -1,0 +1,17 @@
+{
+    "name": "mis1st/container",
+    "autoload": {
+        "psr-4": {
+            "Mis1st\\Container\\": "src/",
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    },
+    "authors": [
+        {
+            "name": "'Mustafa",
+            "email": "mis1st003@gmail.com"
+        }
+    ],
+    "require": {}
+}
